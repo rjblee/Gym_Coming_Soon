@@ -1,0 +1,5 @@
+body {
+    background: url("../images/gymBackground.jpg");
+    background-size: cover;
+    opacity: 0.1;
+}
