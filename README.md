@@ -1,6 +1,6 @@
 # Gym_Coming_Soon
 
-A simple front end only webpage, using HTML and CSS.
+A simple front end only webpage, just using HTML and CSS.
 
 # Screenshots
 
